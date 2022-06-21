@@ -61,7 +61,7 @@ Reasoning: Days are not ordinal numbers. Just because it is the 20th of a month 
 
 ## Predictive Models
 ### Linear Regression
-### Linear Regression with Polynomia Features
+### Linear Regression with Polynomial Features
 ### Linear Regression with Polynomial Features and Regularization
 
 <br>
